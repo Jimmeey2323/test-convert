@@ -1,0 +1,5 @@
+{
+  "name": "Yellow Messenger AI Dashboard",
+  "description": "A modern and advanced dashboard to manage users and conversations for the Yellow Messenger AI platform. It allows for user creation, editing, batch deletion, and direct messaging capabilities.",
+  "requestFramePermissions": []
+}
